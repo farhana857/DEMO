@@ -1,0 +1,1 @@
+print("Murgir mangso khai!")
