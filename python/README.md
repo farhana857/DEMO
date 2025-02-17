@@ -1,6 +1,6 @@
-# Untitled
+# Python Basic To Advanced
 
-Python Basic To Advanced
+
 
 This repository contains Python code covering various concepts and techniques from basic to advanced. The goal of this repository is to demonstrate and practice Python programming from scratch.
 
